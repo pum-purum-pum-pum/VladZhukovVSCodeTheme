@@ -1,7 +1,7 @@
 import * as path from 'path';
 import { generateTheme, IColorSet } from 'vscode-theme-generator';
 
-const themeName = 'Generated';
+const themeName = 'VladZhukov';
 const colors = {
   black: '#111111',
   white: '#FFFFFF',
